@@ -1,10 +1,6 @@
 # Copy Calico
 
-Now that we have become masters of Copy Kitten, let's become masters of Copy Calico. I think we are ready to get to the Big Leagues and show our skills!
-
-![copy](https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Finsomniacharold.files.wordpress.com%2F2010%2F11%2Fcopycat.jpg&f=1)
-
-Below you will find a list of the websites that you have been requested to copy by Copy Calico. Don't worry, you don't have to copy all of them; you only have to choose one and work with that one. ONLY ONE! (Unless you REALLY want to challenge yourself!)
+In this assignment, we'll be copying an exiting website. Below you'll find a list of options. Don't worry, you don't have to copy of all them. You'll choose whichever you like to go about copying.
 
 ## Basic Setup
 
@@ -12,7 +8,7 @@ Fork this repository, make HTML and CSS files, and get going!
 
 Do NOT forget to **add a `link` tag from your HTML to your CSS**. 
 
-Also, as you work, make at least three commits in git as you go with clear messages!
+Also, as you work, make at least three commits in git as you go with good, descriptive commit messages!
 
 ## List Of The Websites To Choose From:
 
