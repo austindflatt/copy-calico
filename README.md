@@ -16,7 +16,6 @@ Also, as you work, make at least three commits in git as you go with good, descr
 - [DuckDuckGo](https://duckduckgo.com/)
 - [Facebook](https://www.facebook.com/) (when you are NOT logged in!)
 - [Twitter](https://twitter.com/) (again, when logged out!)
-- [4ocean](https://www.4ocean.com/)
 - [Ed Nacional](https://ednacional.com/)
 
 ## Guidelines
