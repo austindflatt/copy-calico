@@ -1,19 +1,134 @@
+:root {
+}
+
 body {
     background-color: #f0f2f5;
     font-family: "Fira Sans", sans-serif;
 }
 
+a {
+    color: #000000;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
 .container {
     max-width: 1000px;
     margin: 0px auto;
+    display: flex;
 
 }
 
 .login {
     max-width: 500px;
     padding-top: 10em;
+    flex: 50%;
 }
 
 .about-us {
     font-size: 25px;
+}
+
+.login-structure {
+    padding-top: 10em;
+
+}
+
+.login-container {
+    background-color: #FFF;
+    box-shadow: 0 5px 15px rgb(0 0 0 / 5%);
+    text-align: center;
+    border-radius: 5px;
+    width: 400px;
+    margin: 100px 10px 35px 115px;
+    padding-bottom: 25px;
+    padding-top: 10px;
+    padding: 20px 0 28px;
+    flex: 55%;
+}
+
+.form {
+    padding: 6px 0;
+}
+
+input {
+	border-radius: 6px;
+    border: 1px solid #ebebeb;
+    width: 380px;
+    color: #000000;
+    transition: all 0.2s ease 0s;
+    outline: none;
+    font-size: inherit;
+    padding: 15px;
+    background: #FFF;
+}
+
+textarea {
+	transition: all 0.2s ease 0s;
+	outline: none;
+	font-size: inherit;
+	padding: 15px;
+	height: 200px;
+	resize: none;
+	margin-top: 6px;
+}
+
+:focus {
+	border-color: #0079f6;
+    border: 1px solid #0079f6;
+	transition: 0.2s;
+}
+
+.button-container {
+    padding-top: 8px;
+}
+
+.login-button {
+    background-color: #0079f6;
+    color: #FFF;
+    border: none;
+    border-radius: 6px;
+    width: 410px;
+    font-size: 22px;
+    font-weight: 500;
+    line-height: 50px;
+    transition: all 0.2s ease 0s;
+}
+
+.login-button:hover {
+    background-color: #1370ce;
+}
+
+.forgot-pw-container {
+    margin-top: 15px;
+}
+
+.fp {
+    color: #0079f6;
+    font-weight: 400;
+    font-size: 15px;
+}
+
+.line-break {
+    border-bottom: 1px solid #e7e7e7;
+    margin: 20px 20px;
+}
+
+.create-button {
+    background-color: #42b72a;
+    color: #FFF;
+    border: none;
+    border-radius: 6px;
+    width: 200px;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 50px;
+    transition: all 0.2s ease 0s;
+}
+
+.create-button:hover {
+    background-color: #379e22;
 }
